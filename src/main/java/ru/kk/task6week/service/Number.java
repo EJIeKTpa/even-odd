@@ -1,4 +1,4 @@
-package ru.kk.evenodd.service;
+package ru.kk.task6week.service;
 
 import java.util.Scanner;
 
@@ -9,6 +9,7 @@ public class Number {
         int n = sc.nextInt();
         String result = (n % 2 == 0) ? "Чётное" : "Нечётное";
         System.out.println("Введённое число " + result);
+        System.out.println("_____________________ ");
         sc.close();
     }
 }

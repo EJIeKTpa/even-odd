@@ -1,9 +1,9 @@
-package ru.kk.task6week._main;
+package ru.kk.simple_calc._main;
 
-import ru.kk.task6week.service.FactorialCalculator;
-import ru.kk.task6week.service.MethodWhile;
-import ru.kk.task6week.service.Number;
-import ru.kk.task6week.service.WeekendCheck;
+import ru.kk.simple_calc.service.FactorialCalculator;
+import ru.kk.simple_calc.service.MethodWhile;
+import ru.kk.simple_calc.service.Number;
+import ru.kk.simple_calc.service.WeekendCheck;
 
 public class _Main {
     public static void main(String[] args) {

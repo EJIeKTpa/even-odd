@@ -1,4 +1,4 @@
-package ru.kk.task6week.service;
+package ru.kk.simple_calc.service;
 
 import java.util.Scanner;
 
